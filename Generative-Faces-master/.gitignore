@@ -1,0 +1,13 @@
+/__pycache__/
+*.zip
+/lag-dataset/
+/trial_images
+/ffhq-data
+/ffhq-*
+*.png
+/colors-only/
+/utils/__pycache__*
+*.jpg
+*.ckpt
+/tmp
+.vscode
